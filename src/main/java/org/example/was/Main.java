@@ -1,4 +1,6 @@
-package org.example;
+package org.example.was;
+
+import org.example.was.CustomWebApplicationServer;
 
 import java.io.IOException;
 
